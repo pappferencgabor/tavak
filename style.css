@@ -1,0 +1,31 @@
+table {
+    text-align: center;
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+    border-radius: 15%;
+    height: 50px;
+    width: 100px;
+    background-color: lightskyblue;
+    color: blue;
+}
+th {
+    border: 1px solid black;
+    border-radius: 15%;
+    height: 50px;
+    width: 100px;
+    color: blue;
+}
+.elso {
+    text-align: left;
+    background-color: lightsteelblue;
+    color: blue;
+}
+.tavak {
+    color: blue;
+    background-color: lightblue;
+}
+img {
+    width: 100px;
+}
