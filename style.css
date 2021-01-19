@@ -1,31 +1,51 @@
 table {
     text-align: center;
-    border: 1px solid black;
+    border: 3px solid #d6d6fe;
+    border-radius: 1%;
 }
 td {
-    border: 1px solid black;
-    border-radius: 15%;
+    border-radius: 5%;
     height: 50px;
-    width: 100px;
-    background-color: lightskyblue;
-    color: blue;
+    width: 80px;
+    background-color: #d6d6fe;
+    color: #25288b;
+    box-shadow: 2px 2px blue;
+    font-size: 11px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
 }
 th {
-    border: 1px solid black;
-    border-radius: 15%;
+    border-radius: 5%;
     height: 50px;
-    width: 100px;
-    color: blue;
+    width: 80px;
+    color: #25288b;
+    box-shadow: 2px 2px blue;
+    font-size: 11px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
 }
 .elso {
     text-align: left;
-    background-color: lightsteelblue;
-    color: blue;
+    background-color: #b9bafd;
+    color: #25288b;
+    padding-left: 7px;
 }
 .tavak {
-    color: blue;
-    background-color: lightblue;
+    color: #25288b;
+    background-color: #9b9cfd;
 }
+.utolso {
+    background-color: #d5d6d6;
+    color: #25288b;
+}
+.utolsofelso {
+    background-color: #b8b8b8;
+    color: #25288b;
+}
+.piros {
+    color: #be1c03;
+    font-weight: bold;
+} 
 img {
-    width: 100px;
+    width: 80px;
 }
